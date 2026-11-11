@@ -23,6 +23,12 @@ Before you use it
 You need a licensed copy of ISO/IEC 27001:2022 including Amendment 1:2024. The kit refers to clause and control numbers with short descriptions in our own words; it does not reproduce the standard, the Annex A control titles or their text.
 The NIST CSF 2.0 crosswalk is a Brivellis mapping, not an official NIST or ISO mapping. Since 18 Oct 2026 it is aligned with the informative reference ISO/IEC 27001:2022 to CSF 2.0 listed by NIST (OLIR referenceId 218): each Annex A control shows that reference's best-match Subcategory. NIST CSF 2.0 Category names are quoted from NIST CSWP 29 (https://doi.org/10.6028/NIST.CSWP.29); NIST does not endorse this kit.
 These are templates, not legal, certification or audit advice.
+Course and updates
+
+- Kit page: [brivellis.com/resources/isms-starter-kit-iso-27001](https://brivellis.com/resources/isms-starter-kit-iso-27001/?utm_source=github&utm_medium=readme&utm_campaign=isms-kit)
+- Start the free course: ISMS in Practice, 26 short lessons that walk through this kit: [YouTube](https://www.youtube.com/playlist?list=PLIxmkmdCRYPk) · [Udemy](https://www.udemy.com/course/isms-in-practice-implementing-isoiec-270012022/)
+- Follow on LinkedIn: [Brivellis](https://www.linkedin.com/company/brivellis) for new kits and the Briefing.
+
 Report an error
 Found an error or an outdated reference? Email hello@brivellis.com. Corrections ship in the next version.
 Licence
