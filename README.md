@@ -2,7 +2,7 @@
 
 Free, editable templates for an information security management system (ISMS) under ISO/IEC 27001:2022, including Amendment 1:2024, from Brivellis.
 
-**Version 1.0 · October 2026 · 13 files · Free for use within one organisation**
+**Version 1.1 · October 2026 · 13 files · Free for use within one organisation**
 
 ## What's inside
 
